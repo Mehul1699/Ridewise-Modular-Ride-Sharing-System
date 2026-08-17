@@ -31,10 +31,6 @@ The system maintains ride and driver information in memory and provides a menu-d
 
 **Project Structure**
 
-## Project Structure
-
-## Project Structure
-
 ```text
 src/
 └── main/
@@ -115,7 +111,7 @@ Typical attributes include:
 
 **Services**
 
-DriverService
+**_DriverService_**
 
 Responsible for driver-related operations such as:
 
@@ -126,7 +122,7 @@ Responsible for driver-related operations such as:
 - Updating completed ride count
 
 
-**RiderService**
+**_RiderService_**
 
 Responsible for rider-related operations such as:
 
@@ -135,7 +131,7 @@ Responsible for rider-related operations such as:
 - Viewing rider information
 
 
-**RideService**
+**_RideService_**
 
 Responsible for ride-related operations such as:
 
