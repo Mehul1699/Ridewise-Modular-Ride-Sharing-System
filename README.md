@@ -147,7 +147,7 @@ Responsible for ride-related operations such as:
 
 The RideService handles the ride's state, while driver-specific changes are delegated to DriverService.
 
-Ride Lifecycle
+**Ride Lifecycle**
 
 A ride follows a simple lifecycle:
 
@@ -223,7 +223,7 @@ Compile and run the application using your IDE or the configured Java build syst
 
 If the project uses a Main class, run that class to start the application.
 
-Sample Menu
+**Sample Menu**
 
 ===== RIDE BOOKING SYSTEM =====
 
