@@ -31,10 +31,6 @@ The system maintains ride and driver information in memory and provides a menu-d
 
 **Project Structure**
 
-## Project Structure
-
-## Project Structure
-
 ```text
 src/
 └── main/
